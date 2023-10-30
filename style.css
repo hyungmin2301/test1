@@ -39,7 +39,7 @@ header .menu li:first-child {
 #idx_top{
     width: 100%;
     padding: 150px 0;
-    background: url(Image/banner.webp) no-repeat 50% 50% /cover;
+    background: url(Image/ark.jpg) no-repeat 50% 50% /cover;
     text-align: center;
 }
 #idx_top strong{
@@ -48,10 +48,10 @@ header .menu li:first-child {
     letter-spacing: -2px;
 }
 #idx_top strong span{
-    color: yellow;
+    color: darkred;
 }
 #idx_top p{
-    font-size: 20px;
+    font-size: 30px;
     color: #fff;
     margin-top: 20px;
 }
